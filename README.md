@@ -8,7 +8,6 @@ A linked list is a linear data structure where elements (nodes) are connected us
 In this program, three nodes are created manually using dynamic memory allocation and then traversed to display their values.
 
 ---
-
  Source Code
 
 ```c
